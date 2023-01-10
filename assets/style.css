@@ -2265,8 +2265,8 @@ white-space: pre-wrap;
 }
 
 .w-35 {
-    width: 30%;
-    white-space: pre-wrap;
+  width: 30%;
+  white-space: pre-wrap;
   white-space: -moz-pre-wrap;
   white-space: -pre-wrap;
   white-space: -o-pre-wrap;
@@ -2697,11 +2697,6 @@ body {
     font-weight: 400;
     height: 100%;
     background-color: white;
-    /*background: linear-gradient(229deg, #ef9cc3, #b7b0d7, #a4d6d5, #a3cb79, #ceb577, #f08e83, #f2a9a1);
-    background-size: 1400% 1400%;
-    -webkit-animation: Gradient 15s ease infinite;
-    -moz-animation: Gradient 15s ease infinite;
-    animation: Gradient 15s ease infinite;*/
     font-size: 1.5rem;
 }
 
@@ -3216,7 +3211,7 @@ img {
 
 .project-info {
 font-family: Libre Baskerville;
-color: black;
+color: white;
 }
 
 a {

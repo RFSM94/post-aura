@@ -3131,12 +3131,7 @@ header {
     color: white;
     will-change: opacity;
     opacity: 0;
-    transition: all 1.25s cubic-bezier(.23, 1, .32, 1) 0s;
-    background: linear-gradient(229deg, #ef9cc3, #b7b0d7, #a4d6d5, #a3cb79, #ceb577, #f08e83, #f2a9a1);
-    background-size: 1400% 1400%;
-    -webkit-animation: Gradient 15s ease infinite;
-    -moz-animation: Gradient 15s ease infinite;
-    animation: Gradient 15s ease infinite;
+    background-color: black;
 }
 
 .project-loadspot,
@@ -3230,7 +3225,7 @@ font-weight: 600;
 text-transform: uppercase;
 text-decoration: underline;
 font-weight: 900;
-color: #000;
+color: white;
 }
 
   span {

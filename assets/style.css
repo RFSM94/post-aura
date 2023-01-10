@@ -3206,7 +3206,7 @@ img {
     width: 300px;
     align-items: center;
     margin: auto;
-    margin-top: 200px;
+margin-top: 200px;
 }
 
 .project-info {
@@ -3216,7 +3216,6 @@ color: white;
 
 a {
 font-family: trajan-pro-3, serif;
-font-weight: 600;
 text-decoration: underline;
 font-weight: 900;
 color: black;
